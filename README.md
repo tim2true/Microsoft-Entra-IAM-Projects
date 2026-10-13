@@ -8,9 +8,15 @@ The goal of this repository is to demonstrate hands-on experience with Microsoft
 Key areas covered:
 
 • Identity and user lifecycle management
+
 • Role-Based Access Control (RBAC) and least-privilege principles
+
 • Multi-Factor Authentication (MFA) and Conditional Access
+
 • Privileged Identity Management (PIM)
+
 • Identity governance and access reviews
+
 • Security monitoring, troubleshooting, and access auditing
+
 • IAM documentation and best practices
