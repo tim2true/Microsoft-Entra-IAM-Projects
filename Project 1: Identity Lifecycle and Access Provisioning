@@ -1,0 +1,11 @@
+# Step 1: Generate Your Test Identities
+
+Create 5 fictional employees for your project as test records and not actual real people. Your actual usernames must use a domain verified in your Entra tenant. For example, if your tenant domain is contosolab.onmicrosoft.com, Maya's UPN would be maya.chen@contosolab.onmicrosoft.com.
+To find your tenant domain:
+1. Open the Microsoft Entra admin center.
+2. Sign in using your authorized lab administrator account.
+3. Open Entra ID.
+4. Select Overview.
+5. Find the Primary domain or available tenant domains.
+6. Record the domain you will use in your lab documentation.
+Use the actual domain displayed in your tenant; contosolab.onmicrosoft.com is only an example.
