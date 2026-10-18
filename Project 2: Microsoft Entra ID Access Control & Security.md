@@ -115,3 +115,16 @@ This policy is intended to protect users with privileged directory roles.
 
 Once you finish creating both policies, record both of the policies' purpose, users/roles, target resources, required control, mode, and expected result.
 
+# Task 4: Evaluate Report-Only Policies & Inspect Sign-In Logs
+The goal within this task is to compare the policy's expected behavior with the actual sign-in record and explain any differences.
+
+# Step 1: Generate a test sign-in
+1. Confirm your IT Pilot group policy is in Report-only mode.
+2. Open a private browser window.
+3. Sign in as the same user you've tested to a supported Microsoft resource.
+4. Complete any authentication prompts that are actually presented.
+5. Record the approximate time of the attempt and whether sign-in succeeded.
+
+After you record the approximate time of your attempt and if your sign-in succeeded, then you should interpret your sign-in logs and document your findings!
+
+Congratulations, you finished the 2nd project!
