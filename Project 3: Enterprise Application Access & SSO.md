@@ -26,6 +26,8 @@ Once you see this screen, click on New Application and search for Microsoft Entr
 
 <img width="1716" height="956" alt="Screenshot 2026-10-31 at 8 28 46 AM" src="https://github.com/user-attachments/assets/9aa31d5d-9cb3-4bfd-8e22-c29792d6d61a" />
 
+The hyperlink under the title of the toolkit will help you along for clarification on the steps below.
+
 Click on to it, then follow the workflow to add it to your tenant. After adding it, open the new application's overview page.
 
 After reaching the overview page, get on over to the Properties page. 
@@ -70,3 +72,29 @@ After doing so, you'll go back into SAML certifications which is the step after 
 # Task 4: Test SSO with Assigned/Unassigned Users
 
 For this task, you'll use a user that is already assigned to this SAML application by the finance group, a user that isn't assigned from the group, and the user that you disabled. 
+
+When you go to click on Test this application, it'll bring up this screen. 
+
+<img width="1439" height="811" alt="Screenshot 2026-11-13 at 6 40 22 PM" src="https://github.com/user-attachments/assets/35256247-1029-432c-8b15-0e29f7ac56c8" />
+
+From here, if you have the Microsoft Entra tab that helps walk you through the setup for the Toolkit application, you should see the steps on how to fully setup and configure it for testing. 
+
+But for those who haven't done so, I'll show off the steps below. 
+
+Register and log in with the same username (email) that you're doing this project with. 
+
+After doing so, look up at the first few tabs next to the Toolkit title, and you'll see SAML configuration. Navigate to the tab. 
+
+Then you'll come across a screen that looks like this after you click on Create under SAML configuration!
+
+<img width="1053" height="488" alt="Screenshot 2026-11-13 at 6 44 25 PM" src="https://github.com/user-attachments/assets/dd211838-050c-4fc6-8f56-6d7d331efefe" />
+
+What you'll do from here is use the recorded data from your SAML toolkit configuration and enter it in the values above, then you'll click Create.
+
+Go back into Entra and look into your SAML configuration set up. In basic SAML configuration, the new data that you've applied into your SAML configuration set up on the separate website, you'll go ahead and enter the data in their respective textboxes. From there, make sure you save and then you'll be able to finally test. 
+
+Test a user that is assigned to your finance group, a user that isn't a part of your finance group, and a user that was disabled.
+
+One user should be able to log in, one user should get a message saying that they aren't allowed to, and one user should get a message saying their sign-in is blocked because of account restrictions. 
+
+There you have it, you enabled and set up SAML/SSO!
