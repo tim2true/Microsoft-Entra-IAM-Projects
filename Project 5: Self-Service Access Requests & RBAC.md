@@ -168,3 +168,52 @@ Access requests are restricted according to business roles. Employees outside Fi
 
 # Task 8: Configure Access Reviews and Expiration
 This connects this project back to Project 4.
+
+We'll review the access package lifestyle. First, we'll do this by: 
+Open the Finance access package in Entra.
+
+Navigate to Policies.
+
+Open the policy you created.
+
+Select Lifecycle.
+
+Verify the 90-day expiration setting.
+
+From here, we'll configure recurring access reviews if available. We'll do this by
+
+Navigating to ID Governance → Access reviews.
+
+Look for the access package review option.
+
+Select the Finance access package or its assignment policy.
+
+Create an access review.
+
+Select the reviewer.
+
+Configure the recurrence as Quarterly.
+
+Configure the review duration and start date.
+
+Create the review.
+
+This review helps determine whether Maya still requires Finance access. Access-package reviews are distinct from the group reviews you configured in Project 4. 
+
+Finally, we'll document expiration behavior.
+You do not need to wait 90 days for this project to be complete.
+
+Document:
+- The configured expiration period.
+  
+- Whether extensions are permitted.
+  
+- Whether extensions require approval.
+
+- Who is responsible for reviewing continued access.
+  
+- What should happen when access expires.
+
+If you cannot configure the review feature due to licensing, record that limitation rather than claiming it is active.
+
+There you have it, you've completed the Self-Service Access Request & RBAC project!
