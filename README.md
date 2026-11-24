@@ -16,21 +16,21 @@ Lab only: Use a dedicated test tenant and fictional identities. Never perform th
 - IAM operations and assurance: Audit logs, evidence collection, risk registers, remediation plans, security metrics, and management reporting.
 
 # Project Roadmap
-Project 1 — Identity Lifecycle and Access Provisioning – Create fictional users and groups; practice onboarding, department transfers, and contractor offboarding.
+[Project 1 — Identity Lifecycle and Access Provisioning](https://github.com/tim2true/Microsoft-Entra-IAM-Projects/blob/main/Project%201%3A%20Identity%20Lifecycle%20and%20Access%20Provisioning.md) – Create fictional users and groups; practice onboarding, department transfers, and contractor offboarding.
 
-Project 2 — Microsoft Entra ID Access Control & Security – Review authentication methods, register MFA, configure Conditional Access policies, and inspect sign-in results.
+[Project 2 — Microsoft Entra ID Access Control & Security](https://github.com/tim2true/Microsoft-Entra-IAM-Projects/blob/main/Project%202%3A%20Microsoft%20Entra%20ID%20Access%20Control%20%26%20Security.md) – Review authentication methods, register MFA, configure Conditional Access policies, and inspect sign-in results.
 
-Project 3 — Enterprise Application Access & SSO	– Assign users to enterprise applications and explore SAML SSO configuration and troubleshooting.
+[Project 3 — Enterprise Application Access & SSO](https://github.com/tim2true/Microsoft-Entra-IAM-Projects/blob/main/Project%203%3A%20Enterprise%20Application%20Access%20%26%20SSO.md)	– Assign users to enterprise applications and explore SAML SSO configuration and troubleshooting.
 
-Project 4 — Access Reviews & Identity Governance (IGA) – Review group access, certify access, and document governance decisions.
+[Project 4 — Access Reviews & Identity Governance (IGA)](https://github.com/tim2true/Microsoft-Entra-IAM-Projects/blob/main/Project%204%3A%20Access%20Reviews%20%26%20Identity%20Governance%20(IGA).md) – Review group access, certify access, and document governance decisions.
 
-Project 5 — Self-Service Access Requests & RBAC	– Build access request scenarios with eligibility, approvals, resource roles, and expiration.
+[Project 5 — Self-Service Access Requests & RBAC](https://github.com/tim2true/Microsoft-Entra-IAM-Projects/blob/main/Project%205%3A%20Self-Service%20Access%20Requests%20%26%20RBAC.md)	– Build access request scenarios with eligibility, approvals, resource roles, and expiration.
 
-Project 6 — Privileged Access Management with Microsoft Entra PIM	– Inventory privileged roles and explore eligible assignments, JIT activation, and approval controls.
+[Project 6 — Privileged Access Management with Microsoft Entra PIM](https://github.com/tim2true/Microsoft-Entra-IAM-Projects/blob/main/Project%206%3A%20Privileged%20Access%20Management%20(PAM)%20with%20Microsoft%20Entra%20PIM.md)	– Inventory privileged roles and explore eligible assignments, JIT activation, and approval controls.
 
-Project 7 — PowerShell and Microsoft Graph Automation (On Hold)	– Optional automation extension; currently on hold.
+[Project 7 — PowerShell and Microsoft Graph Automation (On Hold)]()	– Optional automation extension; currently on hold.
 
-Project 8 — IAM Auditing, Risk Assessment, & Continuous Improvement	– Audit identities and access, review logs, assess risks, define metrics, and prepare a management report.
+[Project 8 — IAM Auditing, Risk Assessment, & Continuous Improvement](https://github.com/tim2true/Microsoft-Entra-IAM-Projects/blob/main/Project%208%3A%20IAM%20Auditing%2C%20Risk%20Assessment%2C%20%26%20Continuous%20Improvement.md)	– Audit identities and access, review logs, assess risks, define metrics, and prepare a management report.
 
 
 # How to Use This Repository
